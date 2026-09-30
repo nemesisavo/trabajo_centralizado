@@ -1,0 +1,33 @@
+
+# Imprime por pantalla -> ¡Hola Mundo!
+
+print("Hola Mundo")
+print("Estoy aprendiendo Python")
+print(1)
+print("La suma es: ", 120+280)
+
+# Comentarios línea (#) y en bloque(''' ''')
+
+# Comments can be used to explain Python code.
+
+'''
+Comments can be used to make the code more readable.
+Comments can be used to prevent execution when testing code.
+'''
+
+# Variables
+
+numero = 5
+nombre = "John"
+cadena = "Es una variable contiene una cadena"
+
+# Revisar Salto Línea ?
+print(numero,"\n",nombre,"\n",cadena)
+
+# Tipos
+
+c = str(3)
+e = int(5)
+z = float(90)
+
+print(c,e,z)
